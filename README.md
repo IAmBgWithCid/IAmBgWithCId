@@ -20,9 +20,10 @@ I am a Master of Computer Applications (MCA) student and developer focused on bu
 - **Literature:** Deeply into Progression Fantasy and Web Novels (huge fan of *Lord of the Mysteries*).
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmBgWithCid&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmBgWithCid&layout=compact&theme=radical)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmBgWithCid&show_icons=true&theme=tokyonight&icon_color=FFD700&text_color=FFD700&title_color=FFD700&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmBgWithCid&layout=compact&theme=tokyonight&text_color=FFD700&title_color=FFD700&hide_border=true)
+### 🏆 GitHub Trophies
+![trophies](https://github-profile-trophy.vercel.app/?username=IAmBgWithCid&theme=shinto&no-frame=true&no-bg=true)
 [![trophies](https://github-profile-trophy.vercel.app/?username=IAmBgWithCid&theme=shinto&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 ### 📫 Reach Me At
