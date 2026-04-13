@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Dev 👋
 
-<!--
-**IAmBgWithCid/IAmBgWithCId** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master of Computer Applications (MCA) student and developer focused on building automation tools and exploring Natural Language Processing. 
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
+- **Languages:** Python, JavaScript
+- **DevOps & Infrastructure:** Docker, Linux (Self-hosting media servers)
+- **AI/ML:** spaCy, Ollama, NLP-driven automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Projects
+- **[kobo-xray-plugin](https://github.com/IAmBgWithCid/kobo-xray-plugin):** Developing an NLP-based tool to replicate Kindle's X-Ray feature for Kobo e-readers.
+- **[Lorekeeper](https://github.com/IAmBgWithCid/lorekeeper):** Building a structured system to manage complex world-building, character hierarchies, and lore for creative writing.
+
+### 🎹 Beyond the Code
+- **Creative Writing:** Currently drafting **Circle of Eve**, a dark fantasy light novel. I love building intricate power systems and complex worlds.
+- **Music:** Classical/Modern Piano. I find the logic of music theory very similar to the logic of clean code.
+- **Literature:** Deeply into Progression Fantasy and Web Novels (huge fan of *Lord of the Mysteries*).
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmBgWithCid&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmBgWithCid&layout=compact&theme=radical)
+
+---
+[devkalra.main@gmail.com]
