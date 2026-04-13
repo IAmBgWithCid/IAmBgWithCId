@@ -2,6 +2,8 @@
 
 I am a Master of Computer Applications (MCA) student and developer focused on building automation tools and exploring Natural Language Processing. 
 
+![snake github contribution grid snake animation](https://raw.githubusercontent.com/IAmBgWithCid/IAmBgWithCid/output/github-contribution-grid-snake.svg)
+
 ### 🛠 Tech Stack & Tools
 - **Languages:** Python, JavaScript
 - **DevOps & Infrastructure:** Docker, Linux (Self-hosting media servers)
