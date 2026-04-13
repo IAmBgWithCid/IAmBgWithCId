@@ -19,14 +19,8 @@ I am a Master of Computer Applications (MCA) student and developer focused on bu
 - **Music:** Classical/Modern Piano. I find the logic of music theory very similar to the logic of clean code.
 - **Literature:** Deeply into Progression Fantasy and Web Novels (huge fan of *Lord of the Mysteries*).
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmBgWithCid&show_icons=true&theme=tokyonight&icon_color=FFD700&text_color=FFD700&title_color=FFD700&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmBgWithCid&layout=compact&theme=tokyonight&text_color=FFD700&title_color=FFD700&hide_border=true)
-### 🏆 GitHub Trophies
-![trophies](https://github-profile-trophy.vercel.app/?username=IAmBgWithCid&theme=shinto&no-frame=true&no-bg=true)
-[![trophies](https://github-profile-trophy.vercel.app/?username=IAmBgWithCid&theme=shinto&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 ### 📫 Reach Me At
-[📧 Email Me](mailto:devkalra.main@gmail.com)
+[📧 Email](mailto:devkalra.main@gmail.com)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=IAmBgWithCid.IAmBgWithCid&left_color=black&right_color=FFD700)
